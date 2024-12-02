@@ -13,8 +13,8 @@ Zalith Launcher 是一款基于 [PojavLauncher](https://github.com/PojavLauncher
 ## 项目说明
 | 项目 | 内容 | 备注 | 状态 |
 | ------ | ------ | ------ | ------ |
-| Zalith Launcher | 启动器本体项目，所有的主要开发都在这里进行 | **即将迁移仓库** | 维护中√ |
-| Zalith Info | 启动器额外信息源，启动器将从这里获取到更新信息、通知信息、赞助者列表，及其他重要信息 | **正在建设** | 维护中√ |
+| [Zalith Launcher](https://github.com/ZalithLauncher/ZalithLauncher) | 启动器本体项目，所有的主要开发都在这里进行 | **即将迁移仓库** | 维护中√ |
+| [Zalith Info](https://github.com/ZalithLauncher/Zalith-Info) | 启动器额外信息源，启动器将从这里获取到更新信息、通知信息、赞助者列表，及其他重要信息 | **正在建设** | 维护中√ |
 
 ## 重要事项
 - Zalith Launcher 将迁移项目至本组织，详情请见 <a href="notice/migrate_zh_cn.md">Zalith Launcher 项目迁移说明</a>
