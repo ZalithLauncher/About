@@ -1,4 +1,4 @@
-<h2 style="text-align: center;">Zalith Launcher 项目迁移说明</h2>
+<h2 align="center">Zalith Launcher 项目迁移说明</h2>
 
 Zalith Launcher 项目即将从原本的 [MovTery/ZalithLauncher](https://github.com/MovTery/ZalithLauncher) 迁移至本组织!
 
@@ -12,7 +12,7 @@ Zalith Launcher 项目即将从原本的 [MovTery/ZalithLauncher](https://github
 - **更新源切换**：迁移后，新版本更新将以组织内的新仓库为准。旧版本的更新源将保留在原始仓库中，但建议用户尽快切换到新仓库以获取最新的更新和支持。
 - **主要开发者**：迁移后，Zalith Launcher 的主要开发者仍然是我，但组织账号将允许邀请更多开发者加入，共同协作开发。
 
-<div style="text-align: right;">
+<div align="end">
     <p>MovTery</p>
     <p>2024/12/03</p>
 </div>

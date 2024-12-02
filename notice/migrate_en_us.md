@@ -1,4 +1,4 @@
-<h2 style="text-align: center;">Instructions for Migrating the Zalith Launcher Project</h2>
+<h2 align="center">Instructions for Migrating the Zalith Launcher Project</h2>
 
 The Zalith Launcher project will be migrated from its original location at [MovTery/ZalithLauncher](https://github.com/MovTery/ZalithLauncher) to this organization!
 
@@ -12,7 +12,7 @@ The Zalith Launcher project will be migrated from its original location at [MovT
 - **Update Source Switch**: Following the migration, new version updates will be based on the new repository within the organization. The update source for old versions will remain in the original repository, but users are encouraged to switch to the new repository as soon as possible to receive the latest updates and support.
 - **Primary Developer**: Post-migration, I will continue to be the primary developer of Zalith Launcher. However, the organizational account will allow for inviting more developers to join and collaborate on the project.
 
-<div style="text-align: right;">
+<div align="end">
     <p>MovTery</p>
     <p>2024/12/03</p>
 </div>

@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
     <img width="256" src="images/app_name_title.png"></img>
 </div>
 
