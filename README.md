@@ -17,5 +17,5 @@ Zalith Launcher is a Minecraft launcher based on [PojavLauncher](https://github.
 | Zalith Update | Update check source, the launcher will obtain the latest version information from here. | **Under construction** | Under Maintenance √ |
 | Zalith Info | Launcher additional information source, where the launcher will obtain notification information, sponsor lists, and other important information. | **Under construction** | Under Maintenance √ |
 
-## Important Notes" or "Important Matters
+## Important Notes
 - Zalith Launcher will migrate the project to this organization. For more details, please see <a href="notice/migrate_en_us.md">Instructions for Migrating the Zalith Launcher Project</a>
