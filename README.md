@@ -2,7 +2,7 @@
     <img width="256" src="images/app_name_title.png"></img>
 </div>
 
-![Downloads](https://img.shields.io/github/downloads/MovTery/ZalithLauncher/total)
+![Downloads](https://img.shields.io/github/downloads/ZalithLauncher/ZalithLauncher/total)
 [![QQ](https://img.shields.io/badge/QQ-blue)](https://qm.qq.com/q/2MVxS0B29y)
 [![Sponsor](https://img.shields.io/badge/sponsor-30363D?logo=GitHub-Sponsors)](https://afdian.com/a/MovTery)
 
