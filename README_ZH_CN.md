@@ -19,10 +19,10 @@ Zalith Launcher 是一款基于 [PojavLauncher](https://github.com/PojavLauncher
 ## 通知
 <table style="width: 100%;">
   <tr>
-    <td style="text-align: left;"> 
+    <td align="start"> 
       <a href="/notice/migrate_en_us.md">Zalith Launcher 项目迁移说明</a>
     </td>
-    <td style="text-align: right;">
+    <td align="end">
       MovTery - 2024/12/03
     </td>
   </tr>

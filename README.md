@@ -19,10 +19,10 @@ Zalith Launcher is a Minecraft launcher based on [PojavLauncher](https://github.
 ## Notice
 <table style="width: 100%;">
   <tr>
-    <td style="text-align: left;"> 
+    <td align="start"> 
       <a href="/notice/migrate_en_us.md">Instructions for Migrating the Zalith Launcher Project</a>
     </td>
-    <td style="text-align: right;">
+    <td align="end">
       MovTery - 2024/12/03
     </td>
   </tr>
